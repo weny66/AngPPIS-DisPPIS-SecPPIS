@@ -1,0 +1,4 @@
+source,motif,range,prediction
+merge-results,RNNSEL,14-19,
+merge-results,KDDI,23-26,
+merge-results,DRKQWWKVRNASGDSGF,32-48,

@@ -1,0 +1,7 @@
+source,motif,range,prediction
+merge-results,NYDF,13-16,
+merge-results,NSSE,20-23,
+merge-results,QRDV,28-31,
+merge-results,DDSRKWWKV,36-44,
+merge-results,DPAGQE,46-51,
+merge-results,PYNIL,55-59,

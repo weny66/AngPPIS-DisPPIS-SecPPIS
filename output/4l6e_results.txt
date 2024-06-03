@@ -1,0 +1,8 @@
+source,motif,range,prediction
+merge-results,SGEEDEEILFKERAKLYRWDRDVSQWKERGVGDIKILWHTKNYYRILR,0-47,
+merge-results,DQVF,49-52,
+merge-results,TKTE,61-64,
+merge-results,KPLNVSN,66-72,
+merge-results,VWTASDYADGEAKVEQLAVRFKTKEVA,76-102,
+merge-results,CFKK,104-107,
+merge-results,CQQNLXX,112-118,

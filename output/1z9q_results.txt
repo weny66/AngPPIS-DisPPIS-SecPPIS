@@ -1,0 +1,5 @@
+source,motif,range,prediction
+merge-results,AEAL,7-10,
+merge-results,NSKLEL,16-21,
+merge-results,RINKDWLEGTVRGATGIF,34-51,
+merge-results,SFVKIL,54-59,

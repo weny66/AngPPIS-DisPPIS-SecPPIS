@@ -1,0 +1,6 @@
+source,motif,range,prediction
+merge-results,IRHIALL,5-11,
+merge-results,EKRFVPSQHYVYFLVKWQDLSEKV,14-37,
+merge-results,TEIYEFHKTLKEFPIEAGAIN,43-63,
+merge-results,GQRAAENRQGTLTEYCSTL,80-98,
+merge-results,KISRCPHLLDFF,103-114,

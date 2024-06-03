@@ -1,0 +1,10 @@
+source,motif,range,prediction
+merge-results,FDLLRVIGRGS,8-18,
+merge-results,VRLKKTDRIYAM,25-36,
+merge-results,VKKELVNIDWVQTE,39-52,
+merge-results,CFQT,71-74,
+merge-results,LMFHMQRQRKL,90-100,
+merge-results,LMFEMMAGRSPFDTEDYLFQVILEKQI,191-217,
+merge-results,RSLSVKAASVLKSFL,221-235,
+merge-results,NFDSQFTNEPV,289-299,
+merge-results,QSEFEGFE,313-320,

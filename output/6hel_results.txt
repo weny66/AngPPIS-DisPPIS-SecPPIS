@@ -1,0 +1,7 @@
+source,motif,range,prediction
+merge-results,EETDK,107-111,
+merge-results,TELP,171-174,
+merge-results,HRNRE,213-217,
+merge-results,ERYL,241-244,
+merge-results,KSMIQ,347-351,
+merge-results,HRESRWM,378-384,

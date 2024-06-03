@@ -1,0 +1,7 @@
+source,motif,range,prediction
+merge-results,GKITRRESE,7-15,
+merge-results,PENPRGT,21-27,
+merge-results,SETTKGA,33-39,
+merge-results,DFDNAKGL,46-53,
+merge-results,IRKLDSGGFYITSRTQFSSLQQLV,60-83,
+merge-results,SKHADGL,87-93,

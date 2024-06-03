@@ -1,0 +1,5 @@
+source,motif,range,prediction
+merge-results,SAELKQMVMSL,3-13,
+merge-results,LGYAG,22-26,
+merge-results,LHLLKAGC,41-48,
+merge-results,LYRRRF,59-64,

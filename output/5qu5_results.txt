@@ -1,0 +1,4 @@
+source,motif,range,prediction
+merge-results,VVVVAKDY,2-9,
+merge-results,QQEQELD,12-18,
+merge-results,KNERLWLLDDSKSWWRVRNSMNKTGFVPSN,21-50,

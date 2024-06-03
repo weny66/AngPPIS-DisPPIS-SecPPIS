@@ -1,0 +1,6 @@
+source,motif,range,prediction
+merge-results,NPKYV,15-19,
+merge-results,WKLKTRLERDV,38-48,
+merge-results,RRWQR,65-69,
+merge-results,DPEMIDERRIGLERFL,73-88,
+merge-results,TKIAQDFL,103-110,

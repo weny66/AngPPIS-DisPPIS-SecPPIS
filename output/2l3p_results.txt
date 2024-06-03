@@ -1,0 +1,7 @@
+source,motif,range,prediction
+merge-results,PSINTP,5-10,
+merge-results,LQNG,14-17,
+merge-results,FYARVIQKR,19-27,
+merge-results,AYDKTAL,31-37,
+merge-results,VGEL,41-44,
+merge-results,TKINMSGQWEGECNGKRGHFPFTHV,48-72,

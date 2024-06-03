@@ -1,0 +1,6 @@
+source,motif,range,prediction
+merge-results,AKVR,8-11,
+merge-results,SMIQCEDQRCQV,22-33,
+merge-results,LNCV,37-40,
+merge-results,PDKPGESA,43-50,
+merge-results,LCRLSRAD,60-68,

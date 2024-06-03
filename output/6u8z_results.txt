@@ -1,0 +1,12 @@
+source,motif,range,prediction
+merge-results,RHPD,113-116,
+merge-results,LWAH,119-122,
+merge-results,YIENQFF,284-290,
+merge-results,YRVYVVIP,321-328,
+merge-results,ELGNQWINYISFCGLR,365-380,
+merge-results,TELIYVHSKLL,391-401,
+merge-results,GSANINDRSML,411-421,
+merge-results,RDSEMA,424-429,
+merge-results,LGYL,465-468,
+merge-results,VWVS,487-490,
+merge-results,LIQL,514-517,

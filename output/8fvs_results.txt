@@ -1,0 +1,5 @@
+source,motif,range,prediction
+merge-results,ELRQALMPTLEALYRQDPESLPF,7-29,
+merge-results,QLLGIPDYFDIVKNP,36-50,
+merge-results,TIKRKLDTGQYQEPWQYVDDVWLMFNNAWLYNRKTSRVYKFC,55-96,
+merge-results,KLAEVFEQEIDPVMQSXX,98-115,

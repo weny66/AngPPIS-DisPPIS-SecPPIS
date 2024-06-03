@@ -1,0 +1,5 @@
+source,motif,range,prediction
+merge-results,VRIK,3-6,
+merge-results,FGQPL,35-39,
+merge-results,NNELSIL,45-51,
+merge-results,SSSM,68-71,

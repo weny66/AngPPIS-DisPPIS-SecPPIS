@@ -1,0 +1,9 @@
+source,motif,range,prediction
+merge-results,FNPQ,23-26,
+merge-results,LDAAGKTTILYKLKL,139-153,
+merge-results,PTIGFNVET,161-169,
+merge-results,RPLWRHYFQNT,184-194,
+merge-results,VVDSNDRERVNEAREEL,200-216,
+merge-results,DELR,223-226,
+merge-results,FANKQDLPNAM,233-243,
+merge-results,AEITDKLGLHSLRHRNWYIQATCATSGDGLYEGLDW,246-281,

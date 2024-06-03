@@ -1,0 +1,7 @@
+source,motif,range,prediction
+merge-results,VKASVESF,11-18,
+merge-results,FLVC,27-30,
+merge-results,LSNGKTRQLKRY,33-44,
+merge-results,FYDL,48-51,
+merge-results,VQLL,53-56,
+merge-results,DYISRSE,112-118,

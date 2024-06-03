@@ -1,0 +1,8 @@
+source,motif,range,prediction
+merge-results,WKAS,6-9,
+merge-results,VTEENGEQLPCYFVM,15-29,
+merge-results,GGVET,36-40,
+merge-results,NWTVPRRLS,42-50,
+merge-results,QNLHRKL,53-59,
+merge-results,EKSK,88-91,
+merge-results,SPSPDY,118-123,

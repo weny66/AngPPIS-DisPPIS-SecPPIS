@@ -1,0 +1,6 @@
+source,motif,range,prediction
+merge-results,FFGMH,327-331,
+merge-results,YLDSVHFF,351-358,
+merge-results,DDYIFHCHPP,398-407,
+merge-results,GRDAFLTLA,518-526,
+merge-results,LVEL,547-550,

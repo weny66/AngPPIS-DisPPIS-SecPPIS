@@ -1,0 +1,11 @@
+source,motif,range,prediction
+merge-results,YEVY,9-12,
+merge-results,TLFEEAHFT,20-28,
+merge-results,LTSRDYTIQ,40-48,
+merge-results,GYKR,83-86,
+merge-results,ATVP,101-104,
+merge-results,NWSS,110-113,
+merge-results,VRQLTAGTLLQKLRAKG,123-139,
+merge-results,SLMCPLGKMRLTVP,170-183,
+merge-results,DAALYLQMNEKKPT,196-209,
+merge-results,PVCDK,213-217,

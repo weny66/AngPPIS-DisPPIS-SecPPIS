@@ -1,0 +1,10 @@
+source,motif,range,prediction
+merge-results,FNGVS,1-5,
+merge-results,AELL,7-10,
+merge-results,NPGLMAAYKGHHYP,30-43,
+merge-results,PGNHFWKCLFMSGLSEVQL,45-63,
+merge-results,MDDHTLPGKYGIGF,66-79,
+merge-results,VQKLQKYQPRIAVF,106-119,
+merge-results,GLQPHK,143-148,
+merge-results,PDTETLCYV,150-158,
+merge-results,CAQFPRAQDKVHYYIKLKDLRDQLKGIERN,166-195,

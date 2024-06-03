@@ -1,0 +1,5 @@
+source,motif,range,prediction
+merge-results,MGSSTSGLKTT,2-12,
+merge-results,IDTDNFK,44-50,
+merge-results,LFDGS,55-59,
+merge-results,DSQVSNIIQAKL,66-77,

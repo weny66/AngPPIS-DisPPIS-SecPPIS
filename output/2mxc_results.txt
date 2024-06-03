@@ -1,0 +1,3 @@
+source,motif,range,prediction
+merge-results,GPPSNF,32-37,
+merge-results,FKLK,69-72,

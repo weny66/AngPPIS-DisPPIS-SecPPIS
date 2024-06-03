@@ -1,0 +1,14 @@
+SeqNum,AminoAcidName,angles_prediction_results,distance_prediction_results,secondary-structure_prediction_results,merge-results
+1.0,GLU,0,1.0,0.0,0
+2.0,ASP,0,1.0,0.0,0
+3.0,ALA,0,1.0,0.0,0
+4.0,PHE,0,1.0,0.0,0
+5.0,ILE,0,1.0,0.0,0
+6.0,VAL,0,1.0,0.0,0
+7.0,ILE,0,1.0,0.0,0
+9.0,ASP,0,1.0,0.0,0
+11.0,ASP,0,1.0,0.0,0
+,,0,,0.0,0
+,,0,,0.0,0
+,,0,,,0
+,,0,,,0

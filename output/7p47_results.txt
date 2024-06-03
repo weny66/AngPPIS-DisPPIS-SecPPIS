@@ -1,0 +1,9 @@
+source,motif,range,prediction
+merge-results,MLEARDLSNIYQQCYKQIDETINQLVDSTS,1-30,
+merge-results,TIGIEEQVADITSTYKLLSTYESESNNT,33-60,
+merge-results,LKILKVL,63-69,
+merge-results,EDDL,89-92,
+merge-results,CKPYEAPLISRKCN,107-120,
+merge-results,DRDGIQNYLQGYTTRDCPQAACS,124-146,
+merge-results,VVSMRDFVRDPIME,148-161,
+merge-results,KESQEQDKRSS,170-180,

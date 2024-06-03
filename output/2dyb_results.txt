@@ -1,0 +1,13 @@
+source,motif,range,prediction
+merge-results,SDFEQLPD,2-9,
+merge-results,ANIA,15-18,
+merge-results,LEERFGTL,60-67,
+merge-results,LSLPVWVL,98-105,
+merge-results,RAEALFDF,140-147,
+merge-results,NSKLEL,150-155,
+merge-results,AGDV,159-162,
+merge-results,LSRINKDWLEGTVRGATGIFPLSFVKILK,166-194,
+merge-results,YYYEDTIS,209-216,
+merge-results,DLSS,226-229,
+merge-results,KDLLELTRREFQRE,234-247,
+merge-results,LNYRDAEGDLVRLLSDEDVALMVRQARGLPSQKRLFPWKLHITQ,251-294,

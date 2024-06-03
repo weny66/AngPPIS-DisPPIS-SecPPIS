@@ -1,0 +1,6 @@
+source,motif,range,prediction
+merge-results,QDKL,16-19,
+merge-results,TEDP,77-80,
+merge-results,AEEKL,98-102,
+merge-results,YQEAVRTLSSRDD,111-123,
+merge-results,LQDEARNRCXX,129-139,
