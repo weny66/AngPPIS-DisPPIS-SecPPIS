@@ -42,5 +42,8 @@ Run the conversion, cropping, balancing, and training scripts in order.
 Please copy the pdb folder in the main directory to the path of the three models, and an additional original pdb file is required in SecPPIS. Due to file size issues, if necessary, please contact us to obtain all training files or run scripts to create training files yourself
 For prediction, run the prediction script after training.
 Check the output folder for results.
+
+The Python versions used in this article are Python 3.11.5 and PyTorch2.1.2
+
 Contact
 For any questions or further assistance, please contact Wenyan Wu at weny60006@gmail.com.
