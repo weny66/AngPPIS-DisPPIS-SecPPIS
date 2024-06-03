@@ -1,7 +1,6 @@
 # AngPPIS-DisPPIS-SecPPIS
 README
 Overview
-![Fig 1](./Figure/abstract.jpg)
 This repository contains the code for three innovative deep learning models: SecPPIS, DisPPIS, and AngPPIS. These models are designed to predict features related to proteins' secondary structures, spatial distances, and spatial angles, respectively. Each model's code is stored in its respective named folder.
 
 Data Loading
