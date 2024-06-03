@@ -1,6 +1,7 @@
 # AngPPIS-DisPPIS-SecPPIS
 README
 Overview
+
 This repository contains the code for three innovative deep learning models: SecPPIS, DisPPIS, and AngPPIS. These models are designed to predict features related to proteins' secondary structures, spatial distances, and spatial angles, respectively. Each model's code is stored in its respective named folder.
 
 Data Loading
@@ -38,6 +39,7 @@ Each record will be appended with the corresponding amino acid sequence number a
 How to Run
 Navigate to the respective model folder (AngPPIS, DisPPIS, or SecPPIS).
 Run the conversion, cropping, balancing, and training scripts in order.
+Please copy the pdb folder in the main directory to the path of the three models, and an additional original pdb file is required in SecPPIS. Due to file size issues, if necessary, please contact us to obtain all training files or run scripts to create training files yourself
 For prediction, run the prediction script after training.
 Check the output folder for results.
 Contact
