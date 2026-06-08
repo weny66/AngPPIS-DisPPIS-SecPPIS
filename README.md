@@ -89,12 +89,12 @@ The figures/ or results/ folders contain scripts and source tables used to repro
 The figure scripts read the processed result tables and generate the final plots used in the manuscript.
 
 **How to Run**
-# 1. Prepare or download PDB files
-# 2. Generate model-specific features
-# 3. Generate protein-level train/validation/test splits
-# 4. Train the selected model
-# 5. Evaluate the model on the independent test set
-# 6. Generate summary tables and figures
+1. Prepare or download PDB files
+2. Generate model-specific features
+3. Generate protein-level train/validation/test splits
+4. Train the selected model
+5. Evaluate the model on the independent test set
+6. Generate summary tables and figures
 
 **The Python versions used in this article are Python 3.11.5 and PyTorch2.1.2**
 
